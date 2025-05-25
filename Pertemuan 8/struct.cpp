@@ -1,6 +1,6 @@
 #include<iostream>
-#include<string>
-#include<vector>
+#include<string> //untuk membuat fungsi string
+#include<vector> //untuk membuat fungsi vector
 using namespace std;
 
 struct alamat{
