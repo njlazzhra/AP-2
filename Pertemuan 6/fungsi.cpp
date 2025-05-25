@@ -1,12 +1,12 @@
 # include <iostream>
 using namespace std;
 
-// fungsi tanpa nilai balikan
+// fungsi tanpa nilai balikan (biasanya berupa string)
 void tampilkan_pesan(){
     cout << "==== SELAMAT DATANG DI AP 2 ====" << endl;
 }
 
-// fungsi dengan nilai balikan
+// fungsi dengan nilai balikan (biasanya berupa integer)
 int tambah(int a, int b){
     return a + b;
 }
@@ -20,7 +20,7 @@ double kali(double a, double b) {
     return a * b;
 }
 
-// fungsi rekursif
+// fungsi rekursif, fungsi yang memanggil dirinya sendiri secara langsunh ataupun tidak langsung.
 int faktorial(int n){
     if (n == 0 || n == 1)
     {
