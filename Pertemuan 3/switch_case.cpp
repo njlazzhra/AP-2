@@ -12,6 +12,7 @@ int main(){
     cout << "5." << "\t" << "Putih\n\n";
     cout << "Pilih Warna Yang Kamu Suka: "; cin >> pilih;
 
+    //switch case untuk membuat banyak pilihan
     switch (pilih){
     case 1: cout << "Merah Melambangkan Keberanian dan Energik\n\n";
     break;
