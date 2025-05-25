@@ -58,7 +58,7 @@ int main(){
     // cout<<num1<<endl;
     // cout<<num2<<endl;
 
-    //pointer in pointer
+    //pointer in pointer (nested pointer)
     // int score = 4;
     // int *pointer_score = &score;
     // int **ptr_pointer_score = &pointer_score; //pointer in pointer
