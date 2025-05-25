@@ -1,5 +1,5 @@
 #include <iostream>
-#include <conio.h>
+#include <conio.h> //untuk membuat sourcecode memiliki fungsi spt getch(), getche(), dsb.
 using namespace std;
 
 int main(){
@@ -23,5 +23,5 @@ int main(){
     cout<<"Hasil dari F = ~A = "<<f<<endl;
     cout<<"Hasil dari G = A << B = "<<g<<endl;
     cout<<"Hasil dari H = A >> B = "<<h<<endl;
-    getch(); 
+    getch(); //membaca satu karakter dari keyboard tanpa menampilkan di layar
 }
