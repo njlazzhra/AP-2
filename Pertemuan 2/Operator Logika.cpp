@@ -11,8 +11,8 @@ int main(){
 
     d = 5 - a < 3;
     e = b > a + 2; f = c + 5 >= 3;
-    g = d ||e||f;
-    h = d&&e&&f;
+    g = d ||e||f; //or
+    h = d&&e&&f; //and
 
     cout<<endl;
     cout<<"Program ekspresi logika"<<endl;
