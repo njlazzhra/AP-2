@@ -1,5 +1,5 @@
 # include <iostream>
-# include <cmath>
+# include <cmath> //untuk membuat fungsi-fungsi matematika standar spt akar kuadrat, trigono, log, eksponen, dsb.
 # include "header_custom.h"
 u;
 
