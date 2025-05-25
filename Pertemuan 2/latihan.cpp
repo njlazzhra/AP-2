@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    system("CLS");
+    system("CLS"); //utk buat terminal bersih
     const float phi = 3.14;
     int jari2; 
     float volume, luas_permukaan;
