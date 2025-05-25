@@ -8,12 +8,12 @@ int main(){
     cout<<"Masukkan nilai A: "; cin>>a;
     cout<<"Masukkan nilai B: "; cin>>b;
 
-    c = a & b;
-    d = a | b;
-    e = a^ b;
-    f = ~a;
-    g = a << b;
-    h = a >> b;
+    c = a & b; //and
+    d = a | b; //or
+    e = a^ b; //xor
+    f = ~a; //negation
+    g = a << b; //shift left
+    h = a >> b; //shift right
 
     cout<<"\nProgram Bitwise"<<endl;
     cout<<"==============="<<endl;
